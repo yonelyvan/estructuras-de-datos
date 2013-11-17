@@ -20,7 +20,7 @@ class nodo{
         nodo<N>(int x_1, int y_1, int x_2, int y_2){//por ahora solo potencia de 2 
                 color = (-1);
                 x1=x_1;    y1=y_1;
-        x2=x_2;    y2 =y_2;
+                x2=x_2;    y2 =y_2;
                 primero = segundo = tercero = cuarto = NULL;
                 }
         
